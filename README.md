@@ -34,6 +34,7 @@ A list of papers using/about federated learning especially malicious client and 
   - (preprint arXiv '20) **Learning to Detect Malicious Clients for Robust Federated Learning** [[link]](https://arxiv.org/abs/2002.00211)
   - (preprint arXiv '20) **Towards Realistic Byzantine-Robust Federated Learning** [[link]](https://arxiv.org/abs/2004.04986)
   - (Information Sciences '20) **A training-integrity privacy-preserving federated learning scheme with trusted execution environment** [[link]](https://www.sciencedirect.com/science/article/pii/S0020025520301201)
+  - (TDSC '20) **Shielding Collaborative Learning: Mitigating Poisoning Attacks through Client-Side Detection** [[link]](https://ieeexplore.ieee.org/abstract/document/9066920)
 - 2019
   - (ICC '19) **Client selection for federated learning with heterogeneous resources in mobile edge** [[link]](https://arxiv.org/pdf/1804.08333.pdf)
   - (IoT Journal '19) **Incentive Mechanism for Reliable Federated Learning: A Joint Optimization Approach to Combining Reputation and Contract Theory** [[link]](https://www.researchgate.net/profile/Zehui_Xiong2/publication/335542779_Incentive_Mechanism_for_Reliable_Federated_Learning_A_Joint_Optimization_Approach_to_Combining_Reputation_and_Contract_Theory/links/5d76430c4585151ee4a91032/Incentive-Mechanism-for-Reliable-Federated-Learning-A-Joint-Optimization-Approach-to-Combining-Reputation-and-Contract-Theory.pdf)
